@@ -154,6 +154,7 @@ M2o.DSSQ -1   -   -   S6 C6   C4 C1  GL1 GL2 C1A C2A C3A C4A C5A  -  C1B C2B C3B
 ;    P6 -> PI(4,5)P2   - Phosphatidylinositol 4,5-bisphosphate
 ;    P3 -> PI(3,4,5)P3 - Phosphatidylinositol 3,4,5-trisphosphate
 M3.POPI    -1   C1   C2   C3  C4  PO4   -   -   -  GL1  GL2  C1A  D2A  C3A  C4A   -    -   C1B  C2B  C3B  C4B   -    -
+M3.DOPI    -1   C1   C2   C3  C4  PO4   -   -   -  GL1  GL2  C1A  D2A  C3A  C4A   -    -   C1B  D2B  C3B  C4B   -    -
 M3.SAPI    -1   C1   C2   C3  C4  PO4   -   -   -  GL1  GL2  C1A  D2A  D3A  D4A  C5A   -   C1B  C2B  C3B  C4B   -    -
 M3.PLPI    -1   C1   C2   C3  C4  PO4   -   -   -  GL1  GL2  C1A  D2A  D3A  C4A   -    -   C1B  C2B  C3B  C4B   -    -
 M3.SDPI    -1   C1   C2   C3  C4  PO4   -   -   -  GL1  GL2  D1A  D2A  D3A  D4A  D5A   -   C1B  C2B  C3B  C4B   -    -
